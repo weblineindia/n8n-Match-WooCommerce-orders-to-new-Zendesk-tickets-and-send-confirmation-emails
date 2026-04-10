@@ -36,7 +36,7 @@ Once a matching order is found, the workflow extracts essential details such as 
 - An active **Zendesk** account with API access  
 - A **WooCommerce** store with REST API credentials  
 - A **Gmail** account (OAuth2) for sending customer emails  
-- An active **n8n** instance  
+- An active **[n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi)**   
 - Permission to update tickets and users in Zendesk  
 
 
